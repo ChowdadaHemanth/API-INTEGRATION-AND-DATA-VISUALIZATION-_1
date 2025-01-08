@@ -1,4 +1,5 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION-_1
+
 Name: CHOWDADA HEMANTH
 
 Company: CODTECH IT SOLUTIONS
@@ -7,7 +8,7 @@ ID: CT08HWV
 
 Domain: Python Programming
 
-Duration: December 2024 to January 2025
+Duration: December 30th,2024 to January 30th,2025
 
 Mentor: Nella Santosh
 
